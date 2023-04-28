@@ -11,3 +11,5 @@ My name is Renato Garcia Campos, I have a degree in business administration and 
 
 
 📚 I’m currently learning JavaScript6, PHP7, MSQL, BOOTSTRAP, Java, MongoDB, MYSQL, focusing on fullstack career.
+
+📫 How to reach me via e-mail: renatogc_@hotmail.com
