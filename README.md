@@ -10,6 +10,6 @@ EN-US
 My name is Renato Garcia Campos, I have a degree in business administration and I am currently studying systems analysis and development at UNESC. I speak English fluently and I am currently studying to become a fullstack professional. I worked for years in foreign trade, but I always loved programming and technology. I am a self-taught professional and I love challenges.
 
 
-📚 I’m currently learning JavaScript6, PHP7, MSQL, BOOTSTRAP, Java, MongoDB, MYSQL, focusing on fullstack career.
+📚 I’m currently learning JavaScript6, PHP7, MSQL, BOOTSTRAP, JAVA, MongoDB, MYSQL, focusing on backend career.
 
 📫 How to reach me by e-mail: renatogc_@hotmail.com
